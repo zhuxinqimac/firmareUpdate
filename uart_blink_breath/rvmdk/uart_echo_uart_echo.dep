@@ -1,0 +1,23 @@
+Dependencies for Project 'uart_echo', Target 'uart_echo': (DO NOT MODIFY !)
+F (.\startup_rvmdk.S)(0x5747B73F)(--cpu Cortex-M4.fp -g --apcs=interwork --pd "__MICROLIB SETA 1"-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Luminary--pd "__UVISION_VERSION SETA 520"-o .\rvmdk\startup_rvmdk.o --depend .\rvmdk\startup_rvmdk.d)
+F (.\uart_echo.c)(0x575BFC88)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I ..\..\..\.. --c99-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Luminary-D__UVISION_VERSION="520" -Drvmdk -DPART_TM4C1294NCPDT -DTARGET_IS_TM4C129_RA0-o .\rvmdk\uart_echo.o --omf_browse .\rvmdk\uart_echo.crf --depend .\rvmdk\uart_echo.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FE42DE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x56FE42DC)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x56FE42DE)
+I (..\..\..\..\inc/hw_ints.h)(0x5747B741)
+I (..\..\..\..\inc/hw_types.h)(0x5747B741)
+I (..\..\..\..\inc/hw_memmap.h)(0x5747B741)
+I (..\..\..\..\inc/hw_nvic.h)(0x5747B741)
+I (..\..\..\..\inc/hw_sysctl.h)(0x5747B741)
+I (..\..\..\..\inc/hw_gpio.h)(0x5747B741)
+I (..\..\..\..\driverlib/debug.h)(0x5747B73A)
+I (..\..\..\..\driverlib/gpio.h)(0x5747B73A)
+I (..\..\..\..\driverlib/interrupt.h)(0x5747B73A)
+I (..\..\..\..\driverlib/flash.h)(0x5747B73A)
+I (..\..\..\..\driverlib/pin_map.h)(0x5747B73A)
+I (..\..\..\..\driverlib/rom.h)(0x5747B73A)
+I (..\..\..\..\driverlib/rom_map.h)(0x5747B73A)
+I (..\..\..\..\driverlib/sysctl.h)(0x5747B73A)
+I (..\..\..\..\driverlib/uart.h)(0x5747B73A)
+F (..\..\..\..\driverlib\rvmdk\driverlib.lib)(0x5747B73A)()
+F (.\readme.txt)(0x5747B73F)()
